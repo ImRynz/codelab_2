@@ -24,7 +24,7 @@ label {
 
 input[type="text"],
 input[type="email"],
-input[type="password"] {
+input[type="text"] {
     width: 380px;
     padding: 10px;
     margin-bottom: 20px;
